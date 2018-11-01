@@ -2,7 +2,7 @@
 Generates key-pair: public (address) and private key (secret).
 
 Run the code on github:
-https://bithomp.github.io/xrp-paper-wallet/
+https://kakoyla.github.io/xrp-paper-wallet/
 
 Or download and run locally (works offline in your browser).
 
